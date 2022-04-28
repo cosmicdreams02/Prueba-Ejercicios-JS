@@ -15,6 +15,32 @@
 }
 
 input {
-  background-color: red;
+  background-color: rgb(238, 255, 0);
   padding: 1%;
+  font-size: 22px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.boton {
+  border-radius: 15px;
+  margin: 1%;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.ejercicio {
+  border: solid 5px white;
+  border-radius: 15px;
+  padding: 1%;
+  margin: 1%;
+}
+
+strong {
+  color: rgb(255, 0, 0);
+}
+
+p {
+  padding: 1%;
+  color: rgb(0, 183, 255);
 }
